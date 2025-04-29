@@ -10,7 +10,7 @@ const experiences = [
     location: 'Columbia, Maryland',
     period: 'November 2024 - Present',
     description: 'Making the data acquisition, processing and storage pipeline for the NASA, GFSC ongoing project PANDORA.',
-    logo: '/images/sciglob.jpg',
+    logo: '/Portfolio/images/sciglob.jpg',
     link: 'https://sciglob.com'
   },
   {
@@ -19,7 +19,7 @@ const experiences = [
     location: 'Laurel, Maryland',
     period: 'April 2024 - November 2024',
     description: 'Development of a custom web application for the company to manage their resources and projects.',
-    logo: '/images/407.jpg',
+    logo: '/Portfolio/images/407.jpg',
     link: 'https://407associates.com'
   },
   {
@@ -28,7 +28,7 @@ const experiences = [
     location: 'Baltimore, Maryland',
     period: 'January 2023 - December 2023',
     description: 'Worked as a Grader and Teaching Assistant for the University of Maryland Baltimore County. Developed a custom web application for the professors to manage students assignments and grades.',
-    logo: '/images/umbc.jpg',
+    logo: '/Portfolio/images/umbc.jpg',
     link: 'https://umbc.edu'
   },
   {
@@ -37,7 +37,7 @@ const experiences = [
     location: 'Bangalore, India',
     period: 'June 2020 — August 2022',
     description: 'Developed a custom pipeline for the client(Albertsons Co.) to maintain their inventory and orders.',
-    logo: '/images/tcs.jpg',
+    logo: '/Portfolio/images/tcs.jpg',
     link: 'https://tcs.com'
   }
 ]
