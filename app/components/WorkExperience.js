@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 const experiences = [
   {
-    company: 'Sciglob Instruments and Services - NASA GFSC',
+    company: 'Sciglob Instruments and Services - NASA GSFC',
     position: 'Software Engineer',
     location: 'Columbia, Maryland',
     period: 'November 2024 - Present',
