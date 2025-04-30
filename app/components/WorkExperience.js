@@ -9,7 +9,7 @@ const experiences = [
     position: 'Software Engineer',
     location: 'Columbia, Maryland',
     period: 'November 2024 - Present',
-    description: 'Making the data acquisition, processing and storage pipeline for the NASA, GFSC ongoing project PANDORA.',
+    description: 'Making the data acquisition, processing and storage pipeline for the NASA, GSFC ongoing project PANDORA.',
     logo: '/Portfolio/images/sciglob.jpg',
     link: 'https://sciglob.com'
   },
